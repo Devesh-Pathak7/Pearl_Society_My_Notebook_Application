@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904765529897",
+    "project_id": "pearlsociety-922b0",
+    "storage_bucket": "pearlsociety-922b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904765529897:android:ddb1570afcb459639b2138",
+        "android_client_info": {
+          "package_name": "com.example.pearlsociety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904765529897-dcb8dkbf78i3vki3g8frl7sthn1fjs6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCGi0X4RyyumhJTBr07OpHqVsymFHpRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904765529897-dcb8dkbf78i3vki3g8frl7sthn1fjs6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
